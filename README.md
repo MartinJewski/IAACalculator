@@ -1,4 +1,5 @@
-IAACalculator V0.0.6
+IAACalculator V0.0.6 [[deprecated]please switch to version 2]
+https://github.com/MartinJewski/IAACalculatorV2
 -------------------
 
 The IAACalculator calculates the iaa score for two or more annotator's
