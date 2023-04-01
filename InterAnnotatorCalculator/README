@@ -29,11 +29,6 @@ E.g
 It should be mentioned that the Bennett's agreement is only for
 2 Annotators.
 
--------------------------------------------------------------------------------------------------
->>>the programm was written in a few days and thats why some outputs have pairwise
-agreement calculations for the first description row due to a sloppy coding, sorry for that!<<<<
--------------------------------------------------------------------------------------------------
-
 -------Starting------------------
 (tested on windows, with JavaSE-1.8)
 Input path should contain the name of the tsv file with .tsv at the end
